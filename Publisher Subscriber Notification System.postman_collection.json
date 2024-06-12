@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "1edb9203-55c1-4828-bbe8-37ed9f0023e0",
+		"name": "Publisher Subscriber Notification System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34666427"
+	},
+	"item": [
+		{
+			"name": "Subscribe request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Notify Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Unsubscribe request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Subscription",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
